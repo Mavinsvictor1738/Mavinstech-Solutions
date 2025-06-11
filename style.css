@@ -1,0 +1,14 @@
+
+        :where([class^="ri-"])::before { content: "\f3c2"; }
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        .hero-bg {
+            background-image: url('https://readdy.ai/api/search-image?query=modern%20tech%20background%20with%20blue%20circuit%20patterns%20and%20gear%20elements%2C%20subtle%20technology%20lines%2C%20clean%20professional%20look%2C%20light%20gradient%20from%20left%20to%20right%2C%20perfect%20for%20website%20hero%20section%2C%20semi-transparent%20on%20left%20side%20for%20text%20overlay%2C%20high%20quality%20digital%20illustration&width=1920&height=800&seq=1&orientation=landscape');
+            background-size: cover;
+            background-position: center;
+        }
+        input:focus {
+            outline: none;
+        }
+
